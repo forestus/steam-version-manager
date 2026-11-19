@@ -1,0 +1,66 @@
+Steam Version Manager
+Copyright (c) 2026 Guilherme Maciel (forestus). Todos os direitos reservados.
+
+PORTUGUES
+
+Este software e o seu codigo-fonte sao protegidos por direitos autorais.
+
+Voce PODE, sem pedir autorizacao:
+  - usar o programa no seu proprio computador, de graca;
+  - ler o codigo-fonte para entender o que ele faz;
+  - compartilhar o link deste repositorio.
+
+Voce NAO PODE, sem autorizacao previa e por escrito do autor:
+  - copiar, reproduzir ou republicar o software, no todo ou em parte;
+  - modificar o software ou criar obras derivadas dele;
+  - distribuir, vender, alugar, sublicenciar ou incluir o software
+    em outros programas, sites ou servicos;
+  - remover ou alterar este aviso de direitos autorais.
+
+O fork dentro do GitHub e permitido apenas na medida exigida pelos
+Termos de Servico do GitHub para repositorios publicos; isso nao
+concede nenhum outro direito acima.
+
+Para pedir autorizacao, abra uma issue neste repositorio.
+
+O software e fornecido "como esta", sem garantia de qualquer tipo.
+O autor nao se responsabiliza por danos decorrentes do seu uso.
+
+Componentes de terceiros: o DepotDownloader (projeto SteamRE) NAO faz
+parte deste repositorio. Ele e baixado pelo proprio usuario, da pagina
+oficial do projeto, e e regido pela licenca dele (GPL-2.0).
+
+Projeto independente, sem ligacao com a Valve Corporation.
+Steam e marca registrada da Valve Corporation.
+
+ENGLISH
+
+This software and its source code are protected by copyright.
+
+You MAY, without asking for permission:
+  - use the program on your own computer, free of charge;
+  - read the source code to understand what it does;
+  - share a link to this repository.
+
+You MAY NOT, without the author's prior written permission:
+  - copy, reproduce or republish the software, in whole or in part;
+  - modify the software or create derivative works;
+  - distribute, sell, rent, sublicense or embed the software in other
+    programs, websites or services;
+  - remove or alter this copyright notice.
+
+Forking within GitHub is allowed only to the extent required by
+GitHub's Terms of Service for public repositories; it grants no other
+rights.
+
+To request permission, open an issue in this repository.
+
+The software is provided "as is", without warranty of any kind. The
+author is not liable for any damages arising from its use.
+
+Third-party components: DepotDownloader (SteamRE project) is NOT part
+of this repository. It is downloaded by the user from the project's
+official release page and is governed by its own license (GPL-2.0).
+
+Independent project, not affiliated with Valve Corporation.
+Steam is a registered trademark of Valve Corporation.
